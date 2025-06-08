@@ -1,0 +1,79 @@
+html {
+ background: #fcf3e3;
+ color: #836D32;
+ font-family: "Crimson Text", serif;
+}
+
+body {
+margin: 0;
+      padding: 0;
+      background-image: url('https://lh7-us.googleusercontent.com/SrJw_ThLhna9UpXPGKQBaE16y9wv1ljalqWFqDd00Wx4SFajb9S2Y0Zq7hduD9dWPkUVhGTikWCWeX5iCGrRtbT0UO58Sa_PrDL8K1M4O56n9Cnic1imRVYf7E-18Gu0OhmTTXCHMA1obkAWW_nxkUyLL2-coekRqLQBzX-8YZ8w227aIhG3uCR4R7P4k7aw0zr8w_jt?key=EdtdPyh8HDjRk88pzr6tmw');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      height: 100vh;
+}
+
+h1.main {
+font-family: "Yesteryear", cursive;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 3em;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    color: #7e6369; //#9d6e71;
+}
+
+ul.menu {
+    font-size: 1.25em;
+    display: inline-block;
+}
+
+ul.menu li {
+    display: inline;
+    letter-spacing: 2px;
+    line-height: 1;
+    margin: 0 auto;
+    padding: 8px 8px 6px;
+}
+
+ul.menu li a {
+    color: #965e51;
+}
+
+h2.subtitle {
+    letter-spacing: 3px;
+    font-family: "Crimson Text", serif;
+    line-height: 1;
+    margin: 8px 0;
+    font-family: Crimson Text;
+    color: #836D32;
+    font-size: 20px;
+    font-weight: normal;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+h2.subtitle a {
+    color: #836D32;
+    text-decoration: none;
+    border-bottom: 2px dotted #836D32;
+    
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    color: #fff;
+width: 100%;
+}
+
+footer p {
+    text-align: center;
+    color: #f9ddaf;
+}
